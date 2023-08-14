@@ -50,8 +50,7 @@ then move to the main file to run the algo:
 
 
 
-### Use appropriate compiler commands here and Run the program with input.txt as input
-./main
+### Use appropriate compiler commands here and Run the program with input1 (1).txt as input in ./main.py
 The program will read the points from ``` input1 (1).txt ``` (you can change it to other input files that in the project) and output the vertices and edges of the computed 3D convex hull.
 
 ## Assignment Notes
