@@ -1,6 +1,9 @@
-# 3D Convex Hull Algorithm (Your Algorithm Name)
+# 3D Convex Hull Algorithm
+This repository showcases my self-implemented 3D Convex Hull algorithm, crafted during my studies in computational geometry. The Convex Hull, a cornerstone of computational geometry, emerges as the smallest convex polyhedron encompassing a collection of 3D points. Serving as a pivotal tool in diverse fields such as computer graphics, robotics, and simulations, this algorithm adeptly computes the Convex Hull, underscoring its significance in computational problem-solving.
 
-This repository contains my implementation of a 3D Convex Hull algorithm, developed as part of my computational geometry course. The Convex Hull is a fundamental concept in computational geometry, and this algorithm efficiently computes the convex hull of a set of 3D points.
+In the realm of game graphics, consider an open-world video game where the landscape is populated with various objects, such as trees, rocks, and buildings. Determining what elements obstruct a player's view or movement is essential for creating realistic and immersive environments. By utilizing the Convex Hull algorithm, game developers can efficiently calculate simplified boundaries for these objects. These boundaries enable the game engine to optimize rendering, collision detection, and pathfinding, ultimately enhancing both the visual quality and the gameplay experience. <br/><br/>
+Here's a simulation that illustrates the process of building a 3D Convex Hull:<br/><br/>
+![Convex Hull GIF](https://user-images.githubusercontent.com/14288520/202849112-808c0f4c-9d96-44e6-a833-14a6dc886900.gif)
 
 ## Table of Contents
 
