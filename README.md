@@ -33,7 +33,7 @@ To use the 3D Convex Hull algorithm, follow these steps:
 1. Clone this repository to your local machine:
 
    ```sh
-   git clone https://github.com/TalSchreiber95/Convex-Hull-3d.git
+   git clone https://github.com/TalSchreiber95/Convex-Hull-3d.git 
 
 2. Compile the code if needed.
 
@@ -44,9 +44,13 @@ To use the 3D Convex Hull algorithm, follow these steps:
 
 ### Clone the repository
 First clone the repository using:
- ``` git clone https://github.com/TalSchreiber95/Convex-Hull-3d.git```
+  ```sh
+ git clone https://github.com/TalSchreiber95/Convex-Hull-3d.git
+   ```
 then move to the main file to run the algo:
- ``` cd main ```
+ ```sh 
+cd main 
+```
 
 
 
