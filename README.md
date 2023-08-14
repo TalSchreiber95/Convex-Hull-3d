@@ -58,3 +58,8 @@ Please refer to the EX2 file in this repository for the specific assignment note
 
 ## References
 Provide any references you used while implementing the algorithm here. This could include textbooks, research papers, online resources, or any other relevant material that influenced your implementation.
+
+## Collaborators
+* [Tal Schreiber](https://github.com/TalSchreiber95)
+* [Yuval Ben Yacov](https://github.com/yuvalbenya)
+
